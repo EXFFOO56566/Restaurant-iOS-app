@@ -1,0 +1,120 @@
+/* 
+  Localizable.strings
+  FoodApp
+
+  Created by iMac on 07/07/20.
+  Copyright © 2020 Mitesh's MAC. All rights reserved.
+*/
+"Let's eat Quality food" = "Let's eat Quality food";
+
+"Details" = "Details";
+"Ingredients" = "Ingredients";
+"NO DATA INGREDIENTS" = "NO DATA INGREDIENTS";
+"Add To Cart" = "Add To Cart";
+"Cart" = "Cart";
+"Checkout" = "Checkout";
+
+
+"Order Summary" = "Order Summary";
+"Couponcode" = "Couponcode";
+"Payment Summary" = "Payment Summary";
+"Select Promocode" = "Select Promocode";
+"Proceed to Payment" = "Proceed to Payment";
+"Order Total" = "Order Total";
+"Delivery Charge" = "Delivery Charge";
+"Discount Offer" = "Discount Offer";
+"Total Amount" = "Total Amount";
+"Delivery Address" = "Delivery Address";
+"Payment" = "Payment";
+"Payment Method" = "Payment Method";
+"Pay Now" = "Pay Now";
+"ONLINE PAY" = "ONLINE PAY";
+"Order History" = "Order History";
+"NO ORDER HISTORY DATA" = "NO ORDER HISTORY DATA";
+"QTY :" = "QTY :";
+"ORDER ID :" = "ORDER ID :";
+"ORDER :" = "STATUS :";
+"Order received" = "Order received";
+"On the way" = "On the way";
+"Delivered" = "Delivered";
+"Cancelled" = "Cancelled";
+"ONLINE" = "ONLINE";
+"Tax" = "Tax";
+"Search"= "Search";
+"Settings" = "Settings";
+"Edit Profile" = "Edit Profile";
+"Change Password" = "Change Password";
+"Privacy policy" = "Privacy policy";
+"Edit Profile" = "Edit Profile";
+"Change Password" = "Change Password";
+"Reset" = "Reset";
+"Save" = "Save";
+"Enter your review" = "Enter your review";
+"Submit" = "Submit";
+"Ratings" = "Ratings";
+"Enter your review" = "Enter your review";
+"Favorite List" = "Favorite List";
+"Have a Promocode?" = "Have a Promocode?";
+"Apply" = "Apply";
+"Old Password" = "Old Password";
+"New Password" = "New Password";
+"Confirm Password" = "Confirm Password";
+"No Cart Data Found" = "No Cart Data Found";
+"Enter Delivery Address" = "Enter Delivery Address";
+"Enter Promocode" = "Enter Promocode";
+"NO DATA FOUND" = "NO DATA FOUND";
+"Are you sure to remove this item from your cart list?" = "Are you sure to remove this item from your cart list?";
+"Yes" = "Yes";
+"No" = "No";
+"Select image" = "Select image";
+"Photo Library" = "Photo Library";
+"Camera" = "Camera";
+"Cancel" = "Cancel";
+"Please enter all details" = "Please enter all details";
+"New password & Confirm password must be same" = "New password & Confirm password must be same";
+"Are you sure to remove this item from your favourite list?" = "Are you sure to remove this item from your favourite list?";
+"Change Layout" = "Change Layout";
+"Select Lanaguage" = "Select Lanaguage";
+"English" = "English";
+"Arabic" = "Arabic";
+
+"No Add-Ons Found" = "No Add-Ons Found";
+"Add to Cart " = "Add to Cart ";
+
+"Add-Ons" = "Add-Ons";
+"Notes" = "Notes";
+"Done" = "Done";
+"Selected Add-Ons List" = "Selected Add-Ons List";
+"Addons" = "Addons";
+"Note" = "Note";
+"Pay By Cash" = "Pay By Cash";
+"Razorpay" = "Razorpay";
+"Write Notes" = "Write Notes";
+"Write Order Notes" = "Write Order Notes";
+
+
+
+"Remove" = "Remove";
+"Apply" = "Apply";
+
+"Enter Promocode" = "Enter Promocode";
+
+"Delivery" = "Delivery";
+"Pickup" = "Pickup";
+"PAY BY CASH" = "PAY BY CASH";
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
